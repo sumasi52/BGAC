@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="bdd_circuit_approximate" targetName="bdd_circuit_approximate" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc5cea06-fa5a-4f76-a2a3-851b4f46125e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1RgVDiwZQaT2ql2dXuVvFh4g1iP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aas" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="bdd_circuit_approximate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bdd_circuit_approximate" TARGET_NAME="bdd_circuit_approximate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bdd_circuit_approximate" RUN_TARGET_NAME="bdd_circuit_approximate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5cea06-fa5a-4f76-a2a3-851b4f46125e" name="Default Changelist" comment="" />
+      <created>1561692822795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561692822795</updated>
+      <workItem from="1561692825240" duration="943000" />
+      <workItem from="1561697318708" duration="3778000" />
+      <workItem from="1561701672308" duration="53000" />
+      <workItem from="1561780336454" duration="867000" />
+      <workItem from="1561781228474" duration="549000" />
+      <workItem from="1561788034982" duration="795000" />
+      <workItem from="1561951703862" duration="6261000" />
+      <workItem from="1562030983210" duration="5947000" />
+      <workItem from="1562548355620" duration="598000" />
+      <workItem from="1562660808983" duration="1091000" />
+      <workItem from="1562900738893" duration="1377000" />
+      <workItem from="1563254937958" duration="5269000" />
+      <workItem from="1563425033500" duration="6408000" />
+      <workItem from="1563503832902" duration="8486000" />
+      <workItem from="1563850261836" duration="18549000" />
+      <workItem from="1564031950432" duration="12544000" />
+      <workItem from="1564376972998" duration="7468000" />
+      <workItem from="1564462174924" duration="5409000" />
+      <workItem from="1564636921904" duration="11171000" />
+      <workItem from="1564971687629" duration="3126000" />
+      <workItem from="1565070107087" duration="9789000" />
+      <workItem from="1565080257150" duration="4300000" />
+      <workItem from="1565243609894" duration="2319000" />
+      <workItem from="1566448935634" duration="1418000" />
+      <workItem from="1566536775913" duration="622000" />
+      <workItem from="1569307415867" duration="1282000" />
+      <workItem from="1569311985647" duration="31000" />
+      <workItem from="1569472830092" duration="9354000" />
+      <workItem from="1569559194239" duration="6894000" />
+      <workItem from="1570086833653" duration="548000" />
+      <workItem from="1570088622149" duration="617000" />
+      <workItem from="1570165061570" duration="4357000" />
+      <workItem from="1570510205718" duration="4976000" />
+      <workItem from="1570682362879" duration="4901000" />
+      <workItem from="1570769860054" duration="3086000" />
+      <workItem from="1571113228583" duration="5887000" />
+      <workItem from="1571290374017" duration="3414000" />
+      <workItem from="1571363939167" duration="7771000" />
+      <workItem from="1572236600066" duration="4632000" />
+      <workItem from="1572496043808" duration="1680000" />
+      <workItem from="1572582846923" duration="2397000" />
+      <workItem from="1573184342438" duration="8569000" />
+      <workItem from="1573449171240" duration="3023000" />
+      <workItem from="1573534956421" duration="1051000" />
+      <workItem from="1574137981542" duration="615000" />
+      <workItem from="1574150005052" duration="4152000" />
+      <workItem from="1574309306030" duration="7887000" />
+      <workItem from="1574320762400" duration="5089000" />
+      <workItem from="1574398221301" duration="10062000" />
+      <workItem from="1574659218968" duration="3162000" />
+      <workItem from="1574744310522" duration="4547000" />
+      <workItem from="1574916771033" duration="12951000" />
+      <workItem from="1575003069243" duration="5224000" />
+      <workItem from="1575261112469" duration="4018000" />
+      <workItem from="1575350304187" duration="1819000" />
+      <workItem from="1575524491814" duration="695000" />
+      <workItem from="1575866476280" duration="2742000" />
+      <workItem from="1575956194918" duration="823000" />
+      <workItem from="1576206081250" duration="5466000" />
+      <workItem from="1576472024413" duration="3528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/miniBDD.cpp</url>
+          <line>566</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/miniBDD.cpp</url>
+          <line>483</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="mgr.nodes[2].low" language="ObjectiveC" />
+        <watch expression="mgr.nodes[1]" />
+        <watch expression="this-&gt;nodes[5]" />
+        <watch expression="this-&gt;reverse_map[0].first" />
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

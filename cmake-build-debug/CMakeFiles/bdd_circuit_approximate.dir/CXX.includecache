@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/K.Ooe/CLionProjects/bdd-circuit-approximate/ga.h
+vector
+-
+iostream
+-
+
+C:/Users/K.Ooe/CLionProjects/bdd-circuit-approximate/main.cpp
+iostream
+-
+miniBDD.h
+C:/Users/K.Ooe/CLionProjects/bdd-circuit-approximate/miniBDD.h
+ga.h
+C:/Users/K.Ooe/CLionProjects/bdd-circuit-approximate/ga.h
+
+C:/Users/K.Ooe/CLionProjects/bdd-circuit-approximate/miniBDD.h
+cassert
+-
+iostream
+-
+list
+-
+vector
+-
+map
+-
+string
+-
+array
+-
+miniBDD.inc
+C:/Users/K.Ooe/CLionProjects/bdd-circuit-approximate/miniBDD.inc
+
+C:/Users/K.Ooe/CLionProjects/bdd-circuit-approximate/miniBDD.inc
+
